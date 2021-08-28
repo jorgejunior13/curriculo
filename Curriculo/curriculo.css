@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.imagem{
+    border-radius: 80%;
+    width: 150px;
+    height: 150px;
+    margin: 38px 0px 31px 29px;
+    margin-left: 100px;
+
+}
+.nome{
+    margin-left: 11px;
+    position: absolute;
+    left: 19%;
+    top: 15%;
+   
+}
+.nome h1 {
+    width: 250px;
+    margin-bottom: 6px;
+    
+    
+}
+.perfil{
+    position: relative;
+    left: 7%;
+    margin-bottom: 55px;
+    color: #222222;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    
+
+}
+.perfil h2 {
+    margin-bottom: 11px;
+    font-family: Arial,bold, sans-serif;
+    color: #19304f;
+   font-size: 20px;
+
+
+}   
+.Experiencia{
+    position: relative;
+    left: 7%;
+    margin-bottom: 55px;
+    
+    
+}
+.Experiencia h2{
+    font-size: 20px;
+    font-family: Arial,bold, sans-serif;
+    color: #19304f;
+   
+}
+
+.educacao{
+    position: relative;
+    left: 7%;
+    line-height: 30px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    
+}.educacao h2{
+    margin-bottom: 10px;
+    font-family: Arial,bold, sans-serif;
+    color: #19304f;
+   font-size: 20px;
+    
+}
+.ulmodulo{
+    margin-left: 20px;
+    line-height: 18px;
+    margin-bottom: 30px;
+    
+}.projetos h2{
+    margin-bottom: 10px;
+    font-family: Arial,bold, sans-serif;
+    color: #19304f;
+   font-size: 20px;
+    
+
+}.projetos{
+    position: relative;
+    left: 7%;
+    line-height: 30px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+}
+.background-branco{
+    background: white;
+    width: 60vw;
+    height: 60vh;
+    margin: 50px;
+}
+.background-azul{
+  width: 30vw;
+  height: 65vmax;
+  background-color:#19304F;
+  position: absolute;
+  left: 70%;
+  top: 0%;
+  border: 1px solid #19304F;
+  text-align: center;
+
+
+}
+.barra-direita{
+    margin: 300px 30px 0 40px;
+    color: white;
+   
+    
+}
+.contato{
+    color: white;
+    margin-bottom: 22px;
+
+   
+}.contato h2{
+    margin-bottom: 11px;
+}
+.conhecimentos{
+
+  border-bottom: 2px solid white;
+  border-width: 4px;
+  width: 250px;
+  padding-bottom: 15px;
+    padding-left: 25px;
+    margin-left: 77px;
+
+}
+.conhecimento2 h2{
+    margin-bottom: 30px;
+
+}
+.redesocial{
+    margin-top: 22px;
+}
+.rodape{
+    text-align: center;
+}
+
+
+    
+
+
